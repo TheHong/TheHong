@@ -50,14 +50,16 @@ Hello and welcome again! I'm a passionate individual who loves to interact with 
 
 <br/>
 
+<!--
 <div align="center">
   <a href="https://github.com/TheHong">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheHong&show_icons=true&hide=stars&hide_border=true&count_private=true&include_all_commits=true&custom_title=Github Activity" alt="TheHong's GitHub Stats" />
   </a>
   <a href="https://github.com/TheHong">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHong&layout=compact&hide_border=true&langs_count=6&custom_title=Language Stats on Github" alt="TheHong's Language Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheHong&layout=compact&hide_border=true&langs_count=6&custom_title=Language Stats on Github" alt="TheHong's Language Stats" />
   </a>
 </div>
+-->
 
 <h1> Some of my Favorite Projects on Github</h1>
 
